@@ -1,0 +1,9 @@
+procedure:- 
+1. sign in to the aws management console and open aws lambda
+2. click create function and select author from scratch 
+3. enter the function naame, select the required runtime (eg Python) and configure the IAM function 
+4. open the code section and write the lambda function 
+5. click test, create a test event, and run the function 
+6. check the execution results to verify the output 
+7. optionally, deploy the function using services such as API gateway, S3 or Step Functions 
+8. monitor the function using Amazon cloudwatch 
