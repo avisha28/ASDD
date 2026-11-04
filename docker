@@ -1,0 +1,11 @@
+procedure:- 
+1. clone the getting_started_todo_app from GitHub to local system 
+2. navigate to the cloned project directory.
+3. start the development environment using docker compose watch
+4. docker reads the project config and builds the application images 
+5. the required containers are created and started by docker compose.
+6. open docker desktop & verify the running containers 
+7. open & view image in docker desktop 
+8. assign name to docker image as Avisha
+9. verify the newly created image in docker desktop under the images
+10. run the application in browser using the exposed local port. 
